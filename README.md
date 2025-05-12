@@ -4,8 +4,6 @@ This example project will help you record and transcribe using gladia a google m
 
 One of the main challenge is to record the session without a sound card using audio loop sink and not being flagged by the meeting provider (in this case google meet).
 
-This project is a proof of concept with limited support and is not meant for production grade usage.
-
 ## Build:
 
 ```
